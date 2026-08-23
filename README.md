@@ -4,11 +4,11 @@
 
 Convierto datos en decisiones: construyo pipelines robustos, automatizados y reproducibles sobre la nube.
 
-## Sobre mi
+## Sobre mí
 
-Data Engineer con experiencia disenando e implementando flujos de datos end-to-end con **Python**, **SQL** y el ecosistema **Azure** (Databricks, Spark), aplicando practicas **DevOps** e integracion continua con **GitHub Actions**.
+Data Engineer con experiencia diseñando e implementando flujos de datos end-to-end con **Python**, **SQL** y el ecosistema **Azure** (Databricks, Spark), aplicando prácticas **DevOps** e integración continua con **GitHub Actions**.
 
-## Stack tecnologico
+## Stack tecnológico
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -19,13 +19,13 @@ Data Engineer con experiencia disenando e implementando flujos de datos end-to-e
 
 ## Proyectos destacados
 
-| Proyecto | Descripcion |
+| Proyecto | Descripción |
 |---|---|
-| [data-engineering-toolkit](https://github.com/ejaram3/data-engineering-toolkit) | Coleccion de herramientas, plantillas y configuraciones para Data Engineering |
-| [databricks-agent-skills](https://github.com/ejaram3/databricks-agent-skills) | Skills y agentes sobre Databricks: laboratorio de automatizacion con IA |
-| [airflow-project](https://github.com/ejaram3/airflow-project) | Pipeline de orquestacion ETL con Apache Airflow |
+| [data-engineering-toolkit](https://github.com/ejaram3/data-engineering-toolkit) | Colección de herramientas, plantillas y configuraciones para Data Engineering |
+| [databricks-agent-skills](https://github.com/ejaram3/databricks-agent-skills) | Skills y agentes sobre Databricks: laboratorio de automatización con IA |
+| [airflow-project](https://github.com/ejaram3/airflow-project) | Pipeline de orquestación ETL con Apache Airflow |
 
-## Estadisticas
+## Estadísticas
 
 <img src="https://github-readme-stats.vercel.app/api?username=ejaram3&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejaram3&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="160"/>
